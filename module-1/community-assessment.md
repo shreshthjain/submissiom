@@ -26,7 +26,7 @@ Computer Science Club
 - Is it a formally recognized community such as a student society, or is it an informal community such as a friendship group?
 Friendship Group
 
--Does your community share interests or an environment?
+- Does your community share interests or an environment?
 Yes, my community common interest of of working together as a united team and to help each other at the utmost level.
 
 - How long has your community existed?
