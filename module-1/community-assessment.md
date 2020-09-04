@@ -37,7 +37,7 @@ A community started with 4 people has now over 85 active members.
 
 ## What are your community's shared struggles?
 
--What are the problems that is or will bring your community members together? They can be anything, but are commonly focused around working towards better skills, grades or jobs.
+- What are the problems that is or will bring your community members together? They can be anything, but are commonly focused around working towards better skills, grades or jobs.
 The common struggle that my community faced is availability of resources. Earlier there were less people in the community so there were not availability of much resources and were not able to gather much knowledge and experience. Also, many students made fun of our community and tried to demotivate us but it helped us to become stronger that and make us give our 100 percent to prove them wrong.
 
 ## What is the mission of your community?
