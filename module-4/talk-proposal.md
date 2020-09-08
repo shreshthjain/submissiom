@@ -1,4 +1,4 @@
-# Talk planning
+# Talk Planning
 Tell us a little bit about your talk:
 
 - What is the topic?  <br>
@@ -17,7 +17,7 @@ Inform people about the basic meanings of some regular terms.
 - Who is the intended audience in terms of skills, interests and experience? <br>
 Anyone and everyone who is clueless or apathetic enough to not know about this. So literally everyone.
 
-## Early outline
+## Early Outline
 Write an early outline for the structure of your talk. We don't expect lots of detail, just a bullet point list of what you'll talk about, and in what order.
 <br>
 ### Sex And Gender:
@@ -41,8 +41,8 @@ Write an early outline for the structure of your talk. We don't expect lots of d
 - Full Form And The + Communities.
 - Section 447 And Pride Parades.
 
-## Talk proposal
-### Talk title
+## Talk Proposal
+### Talk Title
 Create a short snappy title for your talk <br>
 DISCOVERING PASSION: BEGIN LIVING YOUR UNLIVED LIFE
 ### Abstract
