@@ -23,10 +23,10 @@ Write an early outline for the structure of your talk. We don't expect lots of d
 # sex and gender:
 - sex meaning and types
 - gender(identity): 
-  ~ meaning
-  ~ types
-  ~ difference between sex & gender
-  ~ taboos for transgender
+  - meaning
+  - types
+  - difference between sex & gender
+  - taboos for transgender
 # society's expectations from sexes:
 - of masculinity
 - of femininity
