@@ -43,8 +43,8 @@ Write an early outline for the structure of your talk. We don't expect lots of d
 
 ## Talk Proposal
 ### Talk Title
-Create a short snappy title for your talk <br>
-Individuality
+Create a short snappy title for your talk: <br>
+<b> Individuality <b>
 ### Abstract
 Imagine you're at a conference and your talk has been accepted. At the same time as your talk, there are two others. An abstract is your talk's elevator pitch - convince people why they should come to yours. Start with some context, a problem statement or claim, and continue into your solution and a description of what the talk will be like.
 
