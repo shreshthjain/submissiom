@@ -20,26 +20,26 @@ Anyone and everyone who is clueless or apathetic enough to not know about this. 
 ## Early outline
 Write an early outline for the structure of your talk. We don't expect lots of detail, just a bullet point list of what you'll talk about, and in what order.
 <br>
-# sex and gender:
-- sex meaning and types
-- gender(identity): 
-  - meaning
-  - types
-  - difference between sex & gender
-  - taboos for transgender
-# society's expectations from sexes:
-- of masculinity
-- of femininity
-- negligence of identity and choice
-- brief about development of feminism and the need for it
-# sexual orientation.  
-- types
-- realisation
-- coming out to society
-- examples of people who had the courage.
+# Sex And Gender:
+- Sex Meaning And Types
+- Gender (Identity): 
+  - Meaning
+  - Types
+  - Difference Between Sex & Gender
+  - Taboos For Transgender
+# Society's Expectations From Sexes:
+- Of Masculinity
+- Of Femininity
+- Negligence Of Identity And Choice
+- Brief About Development Of Feminism And The Need For It
+# Sexual Orientation.  
+- Types
+- Realisation
+- Coming Out To Society
+- Examples Of People Who Had The Courage.
 # LGBTQ+
-- full form and the + communities.
-- section 447 and pride parades.
+- Full Form And The + Communities.
+- Section 447 And Pride Parades.
 
 ## Talk proposal
 ### Talk title
