@@ -2,11 +2,11 @@
 
 Before we begin - tell us a bit about yourself.
 
-- What's Your Name?
+- What's Your Name? <br>
 My name is Shreshth Jain.
 
-- Where and What do you study?
-i am pursuing my bachelors of technology from Dr. Akhilesh Das Gupta Institute Of Technology And Managemt Of Technology.
+- Where and What do you study? <br>
+I am pursuing my bachelors of technology from Dr. Akhilesh Das Gupta Institute Of Technology And Managemt Of Technology.
 
 - What are your hobbies?
 I like to travel and explore new places. Playing video games, table tennis, billards, listening to music and contributing to society and open source are my other interests.
