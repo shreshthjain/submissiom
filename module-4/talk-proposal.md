@@ -1,20 +1,20 @@
 # Talk Planning
 <b> Tell us a little bit about your talk: </b>
 
-- What is the topic?  <br>
+- <b>What is the topic? </b> <br>
 Individuality.
 
-- Why do you care about it? <br>
+- <b>Why do you care about it? </b><br>
 It's not important that I should see someone related to me and then I talk about a topic. When I'm asked to define myself, what are the basic bases? Name? Sex? Age?
 These are the basics right? Now consider, the inability to define your own self? Uncanny. This inability is why I care talking about it.
 
-- What story might you be able to tell? <br>
+- <b>What story might you be able to tell? </b><br>
 Of a regular human being (because the term irregular for a fellow human, should be vanished). The doubt and apathy towards people who are not you and me, but them.
 
-- What is your goal? It might be to inform, persuade or entertain. <br>
+- <b>What is your goal? It might be to inform, persuade or entertain. </b><br>
 Inform people about the basic meanings of some regular terms. 
 
-- Who is the intended audience in terms of skills, interests and experience? <br>
+- <b>Who is the intended audience in terms of skills, interests and experience? </b><br>
 Anyone and everyone who is clueless or apathetic enough to not know about this. So literally everyone.
 
 ## Early Outline
