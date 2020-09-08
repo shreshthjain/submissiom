@@ -20,7 +20,7 @@ build a community for students like me to do something to contribute to the soci
 
 How would you define your community? Try to be open minded, but here are some examples of ways you could define your community:
 
-- Is it a computer science club or special interest group?
+- Is it a computer science club or special interest group? <br>
 Computer Science Club
 
 - Is it a formally recognized community such as a student society, or is it an informal community such as a friendship group?
