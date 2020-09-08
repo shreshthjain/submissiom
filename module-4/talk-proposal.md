@@ -18,8 +18,8 @@ Inform people about the basic meanings of some regular terms.
 Anyone and everyone who is clueless or apathetic enough to not know about this. So literally everyone.
 
 ## Early Outline
-Write an early outline for the structure of your talk. We don't expect lots of detail, just a bullet point list of what you'll talk about, and in what order.
-<br>
+<b>Write an early outline for the structure of your talk. We don't expect lots of detail, just a bullet point list of what you'll talk about, and in what order.
+<br></b>
 ### Sex And Gender:
 - Sex Meaning And Types
 - Gender (Identity): 
