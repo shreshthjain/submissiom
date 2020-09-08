@@ -1,4 +1,4 @@
-### Talk planning
+# Talk planning
 Tell us a little bit about your talk:
 
 - What is the topic?  <br>
@@ -20,32 +20,32 @@ Anyone and everyone who is clueless or apathetic enough to not know about this. 
 ## Early outline
 Write an early outline for the structure of your talk. We don't expect lots of detail, just a bullet point list of what you'll talk about, and in what order.
 <br>
-# Sex And Gender:
+### Sex And Gender:
 - Sex Meaning And Types
 - Gender (Identity): 
   - Meaning
   - Types
   - Difference Between Sex & Gender
   - Taboos For Transgender
-# Society's Expectations From Sexes:
+### Society's Expectations From Sexes:
 - Of Masculinity
 - Of Femininity
 - Negligence Of Identity And Choice
 - Brief About Development Of Feminism And The Need For It
-# Sexual Orientation.  
+### Sexual Orientation.  
 - Types
 - Realisation
 - Coming Out To Society
 - Examples Of People Who Had The Courage.
-# LGBTQ+
+### LGBTQ+
 - Full Form And The + Communities.
 - Section 447 And Pride Parades.
 
-### Talk proposal
-## Talk title
+## Talk proposal
+### Talk title
 Create a short snappy title for your talk <br>
 DISCOVERING PASSION: BEGIN LIVING YOUR UNLIVED LIFE
-## Abstract
+### Abstract
 Imagine you're at a conference and your talk has been accepted. At the same time as your talk, there are two others. An abstract is your talk's elevator pitch - convince people why they should come to yours. Start with some context, a problem statement or claim, and continue into your solution and a description of what the talk will be like.
 
 Your abstract should be between 150-200 words as 1-2 paragraphs.
