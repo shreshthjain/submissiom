@@ -1,5 +1,5 @@
 # Talk Planning
-Tell us a little bit about your talk:
+<b> Tell us a little bit about your talk: </b>
 
 - What is the topic?  <br>
 Individuality.
